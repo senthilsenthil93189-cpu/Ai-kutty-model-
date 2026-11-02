@@ -1,0 +1,6 @@
+{
+  "name": "AI Kutty Model - YouTube Studio",
+  "description": "AI-powered YouTube creator studio for analyzing trending topics and generating high-performing video titles, descriptions, and optimization strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
